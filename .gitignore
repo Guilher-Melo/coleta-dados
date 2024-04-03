@@ -1,3 +1,6 @@
 venv
 *.parquet
 letterboxd.py
+*.pkl
+*.csv
+*.json
